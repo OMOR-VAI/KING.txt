@@ -1,1 +1,1 @@
-# KING.txt
+# KING
